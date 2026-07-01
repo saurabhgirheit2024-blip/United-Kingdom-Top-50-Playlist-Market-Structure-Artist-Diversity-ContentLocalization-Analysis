@@ -1,4 +1,4 @@
-# Spotify UK Chart Dynamics & ML Analytics Platform
+# United Kingdom Top 50 Playlist Market Structure, Artist Diversity & ContentLocalization Analysis
 
 A interactive data visualization and predictive analytics platform that explores the UK Spotify Top 50 charts. Built with **Streamlit**, **Pandas**, **NetworkX**, and **Scikit-Learn**, this application provides deep insights into music market structure, artist concentration, collaboration networks, and predicting hit songs using Machine Learning.
 
